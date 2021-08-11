@@ -1,2 +1,2 @@
 # softLog
- Logs CPU and Ram utilization of programs
+ Logs CPU and RAM utilization of programs running under Linux
